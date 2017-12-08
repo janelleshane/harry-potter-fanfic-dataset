@@ -2,20 +2,29 @@
 
 Thanks to some heroic work by @b8horpet@tumblr in scraping (with permission) hundreds of thousands of Harry Potter fan fiction titles and summaries from AO3, here's a dataset of 111,963 Harry Potter fanfiction titles, authors, and summaries.
 
+
 Scraping date: June 27, 2017
+
 Site: Ao3's Harry Potter Fan Fiction repository
+
 Format: Each fan fiction entry on a single line:
+
 Title by Author | Summary text
 
+
 Pre-cleaned to remove entries containing non-Roman characters (i.e. entries in Japanese and Arabic).
+
 This also had the effect of barely bringing the file size below GitHub's 25MB limit.
+
 There are still lots of entries in French, Spanish, German, etc, which may cause your algorithms some headaches.
+
 
 See the results of my experiments with this dataset here:
 
 http://aiweirdness.com/post/162668008357/harry-potter-and-the-neural-network-fan-fiction
 
 http://aiweirdness.com/post/164291045392/harry-potter-and-the-word-level-recurrent-neural
+
 
 Some highlights:
 
