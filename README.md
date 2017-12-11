@@ -1,6 +1,6 @@
 # harry-potter-fanfic-dataset
 
-Thanks to some heroic work by @b8horpet@tumblr in scraping (with permission) hundreds of thousands of Harry Potter fan fiction titles and summaries from AO3, here's a dataset of 111,963 Harry Potter fanfiction titles, authors, and summaries.
+Thanks to some heroic work by @b8horpet in scraping (with permission) hundreds of thousands of Harry Potter fan fiction titles and summaries from AO3, here's a dataset of 111,963 Harry Potter fanfiction titles, authors, and summaries.
 
 #
 Scraping date: June 27, 2017
